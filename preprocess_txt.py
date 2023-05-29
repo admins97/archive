@@ -34,7 +34,9 @@ with open("./new_data_4.txt", "w") as f2:
             else:
                 continue
                             
-print(len(lines))    
+print(len(lines))
+
+# output = open('new_data_1.csv', 'a')    
     
 
 csvFile.close()
