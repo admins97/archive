@@ -16,10 +16,10 @@ for com in csvData:
     movie_num.append(int(com[0]))
 
 
-with open("combined_data_4.txt", "r") as f:
+with open("combined_data_1.txt", "r") as f:
     lines = f.readlines()
 
-with open("./new_data_4.txt", "w") as f2:
+with open("./new_data_1.txt", "w") as f2:
     for line in lines:
         # print(line[-2])
         # print(line)
@@ -31,7 +31,7 @@ with open("./new_data_4.txt", "w") as f2:
             else: 
                 under_check = False
         else:
-            if under_check == True and max < 1000:
+            if under_check == True and max < 500:
                 f2.write(num + line)
                 max += 1
             else:
