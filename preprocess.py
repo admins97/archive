@@ -13,7 +13,7 @@ newData.append(csvData[0])
 for i in range(1, len(csvData)):
     if csvData[i][1] == 'NULL':
         continue
-    if int(csvData[i][0])%8 == 1 and int(csvData[i][1]) >= 1960:
+    if int(csvData[i][0])%12 == 1 and int(csvData[i][1]) >= 1960:
         newData.append(csvData[i])
 print(len(newData))
 print(newData[1][1])
