@@ -31,7 +31,7 @@ with open("./new_data_4.txt", "w") as f2:
             else: 
                 under_check = False
         else:
-            if under_check == True and max < 500:
+            if under_check == True and max < 1000:
                 f2.write(num + line)
                 max += 1
             else:
