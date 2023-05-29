@@ -6,13 +6,13 @@ print(type(csvReader))
 print(csvReader)
 csvData = list(csvReader)
 
-print(len(csvData))
+
 newData = []
 newData.append(csvData[0])
 for i in range(1, len(csvData)):
-    if int(csvData[i][0])%2 == 1:
+    if int(csvData[i][0])%4 == 1:
         newData.append(csvData[i])
-
+print(len(newData))
 print(newData[1][1])
 
 csvFile2 = open('new.csv','w',newline='',encoding='utf-8')
