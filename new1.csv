@@ -34,7 +34,7 @@ movie.num,movie.year,movie.name,ratio1,ratio2,ratio3,ratio4,ratio5
 841,1994,There Goes My Baby,12,32,68,26,12
 865,2005,Elvis by the Presleys,19,15,56,80,85
 889,2004,Reno 911: Season 2,28,28,76,156,212
-913,1979,Dead Kennedys: In God We Trust, Inc.,17,22,46,47,36
+913,1979,Dead Kennedys: In God We Trust. Inc.,17,22,46,47,36
 937,1998,Fallen,11,23,141,229,96
 985,1999,The Mummy,23,34,139,173,131
 1009,1997,Judaai,13,29,49,23,13
@@ -155,9 +155,9 @@ movie.num,movie.year,movie.name,ratio1,ratio2,ratio3,ratio4,ratio5
 4033,2005,Alias: Season 4,18,19,59,129,275
 4057,2000,Sharks: Great White / Ultimate Guide to Sharks,28,62,147,82,42
 4081,1980,Last Flight of Noah's Ark,14,17,50,18,11
-4105,2002,'Ranma 1/2: Ranma Forever: Vol. 8: Someday, Somehow',46,19,86,140,209
+4105,2002,'Ranma 1/2: Ranma Forever: Vol. 8: Someday Somehow',46,19,86,140,209
 4129,1970,Santa Claus Is Comin' to Town,18,15,64,171,232
-4153,1981,Tarzan, the Ape Man,162,174,120,34,10
+4153,1981,Tarzan the Ape Man,162,174,120,34,10
 4177,1988,Salaam Bombay!,18,30,89,235,128
 4201,1996,Walking and Talking,51,82,182,133,52
 4225,1999,Life,22,69,201,130,78
@@ -190,7 +190,7 @@ movie.num,movie.year,movie.name,ratio1,ratio2,ratio3,ratio4,ratio5
 4921,1995,Megaman: Battle for the Future,33,22,45,21,33
 4945,1973,5 Films About Christo & Jeanne-Claude,17,10,39,67,42
 4969,1981,The Flame Trees of Thika,17,10,47,66,47
-4993,2004,Chicago with Earth, Wind & Fire: Live at the Greek Theatre,15,13,44,46,44
+4993,2004,Chicago with Earth Wind & Fire: Live at the Greek Theatre,15,13,44,46,44
 5017,1963,A New Kind of Love,19,46,90,42,26
 5041,1998,Clay Pigeons,14,58,180,171,77
 5089,2002,Fushigi Yugi: The Mysterious Play: Eikoden,18,13,34,58,76
@@ -395,9 +395,9 @@ movie.num,movie.year,movie.name,ratio1,ratio2,ratio3,ratio4,ratio5
 10225,1993,Groundhog Day,10,18,105,225,142
 10249,1988,Stormy Monday,58,124,190,76,16
 10297,1998,Fifteen & Pregnant,21,54,190,149,86
-10321,1975,Upstairs, Downstairs: Season 5,31,19,44,142,264
+10321,1975,Upstairs Downstairs: Season 5,31,19,44,142,264
 10345,1965,Cat Ballou,11,46,160,179,104
-10369,1972,Upstairs, Downstairs: Season 2,31,23,49,164,233
+10369,1972,Upstairs Downstairs: Season 2,31,23,49,164,233
 10393,2000,Just One Time,42,98,167,147,46
 10417,2000,Jesus,63,38,119,145,135
 10441,2004,Fred Rogers: America's Favorite Neighbor,20,8,40,30,48
@@ -434,7 +434,7 @@ movie.num,movie.year,movie.name,ratio1,ratio2,ratio3,ratio4,ratio5
 11257,1996,Original Gangstas,73,96,141,69,34
 11305,2002,Queen: Greatest Video Hits 1,14,18,45,84,62
 11329,2001,Stripped,124,135,85,21,13
-11353,1999,Indigo Girls: Live at the Fillmore, Denver,23,29,60,45,38
+11353,1999,Indigo Girls: Live at the Fillmore Denver,23,29,60,45,38
 11377,2001,Chilly Dogs,39,47,84,39,18
 11401,1999,The Thirteenth Floor,19,58,192,177,54
 11425,2003,The Big Empty,61,108,220,91,20
@@ -512,7 +512,7 @@ movie.num,movie.year,movie.name,ratio1,ratio2,ratio3,ratio4,ratio5
 13273,2004,House of Flying Daggers,18,47,133,182,120
 13297,2004,Cirque du Soleil: Midnight Sun,18,18,40,28,15
 13321,2001,Kuch Khatti Kuch Meethi,18,27,36,15,3
-13345,1978,Langrishe, Go Down,25,57,38,13,6
+13345,1978,Langrishe Go Down,25,57,38,13,6
 13369,2002,PRIDE Fighting Championships: Cold Fury 2,12,15,41,46,36
 13393,1990,Alice,36,58,194,157,55
 13417,1997,Home Alone 3,108,116,148,86,42
@@ -567,7 +567,7 @@ movie.num,movie.year,movie.name,ratio1,ratio2,ratio3,ratio4,ratio5
 14737,2002,The Sweetest Thing,65,74,153,134,74
 14761,1993,Visions of Light,15,28,118,205,134
 14785,1987,Big Bad Mama 2,47,63,59,19,6
-14809,1966,Walk, Don't Run,23,53,163,163,98
+14809,1966,Walk. Don't Run,23,53,163,163,98
 14833,1993,Puppetmaster,37,41,48,37,33
 14857,2002,First Shot,85,106,181,103,25
 14881,2000,Anne of Green Gables: The Continuing Story,30,39,89,175,167
@@ -599,7 +599,7 @@ movie.num,movie.year,movie.name,ratio1,ratio2,ratio3,ratio4,ratio5
 15553,2001,Promises,18,30,80,197,175
 15577,2001,Ski Movie II: High Society,22,30,40,67,36
 15601,1996,Gotti,24,77,179,153,67
-15625,2002,Keep the Faith, Baby,21,12,53,52,16
+15625,2002,Keep the Faith. Baby,21,12,53,52,16
 15673,1996,The Italians,25,44,52,27,12
 15697,1997,Future War,67,30,13,4,5
 15721,2004,Krav Maga: Basic Combatives,17,16,55,16,14
@@ -613,7 +613,7 @@ movie.num,movie.year,movie.name,ratio1,ratio2,ratio3,ratio4,ratio5
 15913,2003,Chasing Papi,70,143,181,75,31
 15937,1994,Laadla,18,23,18,14,2
 15961,2002,Dead and Rotting,43,25,22,4,3
-15985,1978,Same Time, Next Year,14,33,129,197,127
+15985,1978,Same Time. Next Year,14,33,129,197,127
 16009,2002,High Times' Potluck,36,33,58,19,9
 16033,1999,Introducing Dorothy Dandridge,17,42,166,177,98
 16057,1964,Combat! Season 3: Operation 1,20,11,25,38,42
@@ -629,7 +629,7 @@ movie.num,movie.year,movie.name,ratio1,ratio2,ratio3,ratio4,ratio5
 16369,1978,Little Feat: Rockpalast Live,34,41,74,65,42
 16393,2000,Pokemon: The Movie 2000,107,68,153,87,85
 16417,2000,Bad Girls from Valley High,58,102,101,43,18
-16441,1992,Honey, I Blew Up the Kid,22,68,199,143,68
+16441,1992,Honey. I Blew Up the Kid,22,68,199,143,68
 16465,1998,Meet Joe Black,33,54,158,156,99
 16489,1987,Unsolved Mysteries: Miracles,21,18,57,24,26
 16513,2001,The Sandy Bottom Orchestra,29,44,105,75,27
